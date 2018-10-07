@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نورا</string>
+    <string name="Plus">جمع</string>
+    <string name="Minse">طرح</string>
+    <string name="By">ضرب</string>
+    <string name="Div">قسمة</string>
+    <string name="num1">الرقم اﻻول</string>
+    <string name="num2">الرقم الثانى</string>
+    <string name="userEntries">ادخاﻻت المستخدم</string>
+    <string name="displayBtn">عرض النتائج</string>
+</resources>

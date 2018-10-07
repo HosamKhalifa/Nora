@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nora</string>
+    <string name="Plus">Sum</string>
+    <string name="Minse">Substract</string>
+    <string name="By">By</string>
+    <string name="Div">Division</string>
+    <string name="num1">First num:</string>
+    <string name="num2">Second num:</string>
+    <string name="userEntries">User edit:</string>
+    <string name="displayBtn">Display result</string>
+
+</resources>
